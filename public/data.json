@@ -1,0 +1,138 @@
+{
+  "daily": [
+    {
+      "date": "01/09/2025",
+      "totalSpend": 24866.78,
+      "shopifyRevenue": 45500.91,
+      "roas": 1.83,
+      "meta": {
+        "spend": 19093.92,
+        "revenue": 38874.04,
+        "roas": 2.04,
+        "purchases": 39
+      },
+      "google": {
+        "cost": 5772.86,
+        "convValue": 16580.13,
+        "roas": 3.62,
+        "conversions": 9
+      }
+    },
+    {
+      "date": "02/09/2025",
+      "totalSpend": 26914.37,
+      "shopifyRevenue": 49374.89,
+      "roas": 1.83,
+      "meta": {
+        "spend": 20377.96,
+        "revenue": 36466.86,
+        "roas": 1.79,
+        "purchases": 36
+      },
+      "google": {
+        "cost": 6536.41,
+        "convValue": 17669.78,
+        "roas": 2.44,
+        "conversions": 14
+      }
+    },
+    {
+      "date": "03/09/2025",
+      "totalSpend": 24712.34,
+      "shopifyRevenue": 56352.62,
+      "roas": 2.28,
+      "meta": {
+        "spend": 18678.41,
+        "revenue": 44968.19,
+        "roas": 2.41,
+        "purchases": 47
+      },
+      "google": {
+        "cost": 6033.93,
+        "convValue": 17773.23,
+        "roas": 2.21,
+        "conversions": 14
+      }
+    },
+    {
+      "date": "04/09/2025",
+      "totalSpend": 25587.03,
+      "shopifyRevenue": 58113.76,
+      "roas": 2.27,
+      "meta": {
+        "spend": 18040.03,
+        "revenue": 43150.46,
+        "roas": 2.39,
+        "purchases": 46
+      },
+      "google": {
+        "cost": 7547.0,
+        "convValue": 21895.36,
+        "roas": 2.81,
+        "conversions": 15
+      }
+    },
+    {
+      "date": "05/09/2025",
+      "totalSpend": 23698.09,
+      "shopifyRevenue": 70936.85,
+      "roas": 2.99,
+      "meta": {
+        "spend": 19692.0,
+        "revenue": 52212.44,
+        "roas": 2.65,
+        "purchases": 54
+      },
+      "google": {
+        "cost": 4006.09,
+        "convValue": 18603.41,
+        "roas": 2.74,
+        "conversions": 16
+      }
+    }
+  ],
+  "periodKPIs": {
+    "overall": {
+      "spend": 716665.91,
+      "revenue": 1739943.8,
+      "roas": 2.43,
+      "orders": 1671,
+      "cac": 428.88,
+      "prev": {
+        "spend": 589513.76,
+        "revenue": 1533573.19,
+        "roas": 2.6,
+        "orders": 1495,
+        "cac": 394.32
+      }
+    },
+    "meta": {
+      "spend": 156699.97,
+      "revenue": 472508.54,
+      "roas": 3.02,
+      "orders": 372,
+      "cac": 421.24,
+      "prev": {
+        "spend": 135882.03,
+        "revenue": 391546.7,
+        "roas": 2.88,
+        "orders": 329.91,
+        "cac": 411.88
+      }
+    },
+    "google": {
+      "spend": 559965.94,
+      "revenue": 1375443.82,
+      "roas": 2.46,
+      "orders": 1352,
+      "cac": 414.18,
+      "prev": {
+        "spend": 453631.73,
+        "revenue": 1247171.37,
+        "roas": 2.75,
+        "orders": 1220,
+        "cac": 371.83
+      }
+    }
+  }
+}
